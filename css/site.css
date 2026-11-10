@@ -296,3 +296,5 @@ input:focus,select:focus,textarea:focus{border-color:var(--navy);outline:2px sol
 .datei span{border:1px solid var(--navy);color:var(--navy);font-weight:700;font-size:15px;padding:9px 14px;border-radius:var(--r)}
 .datei em{font-style:normal;font-size:14px;color:var(--muted)}
 .datei input:focus-visible + span{outline:3px solid var(--brick-2);outline-offset:2px}
+.we{white-space:nowrap}
+@media (max-width:560px){.etage.e5 .we{font-size:13.5px;padding:9px 2px}.etage.e5 .we small{font-size:10.5px}.datei em{flex-basis:100%}.haus{padding:16px}}
